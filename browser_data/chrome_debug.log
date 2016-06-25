@@ -1,0 +1,8 @@
+[11060:1295:0624/154017:WARNING:ipc_message_attachment_set.cc(57)] MessageAttachmentSet destroyed with unconsumed descriptors: 0/1
+[11057:1295:0624/154017:ERROR:CONSOLE(124)] "Failed to execute 'postMessage' on 'DOMWindow': The target origin provided ('https://web.whatsapp.com') does not match the recipient window's origin ('https://www.google.co.in').", source: chrome-search://most-visited/single.js (124)
+[11057:1295:0624/154017:INFO:CONSOLE(0)] "Creating Application Cache with manifest https://web.whatsapp.com/404.appcache", source: https://web.whatsapp.com/ (0)
+[11057:1295:0624/154017:INFO:CONSOLE(0)] "Application Cache Checking event", source: https://web.whatsapp.com/ (0)
+[11057:1295:0624/154018:INFO:CONSOLE(0)] "Application Cache Error event: Manifest fetch failed (404) https://web.whatsapp.com/404.appcache", source: https://web.whatsapp.com/ (0)
+[11057:1295:0624/154521:WARNING:pref_notifier_impl.cc(27)] pref observer found at shutdown printing.enabled
+[11057:1295:0624/154521:WARNING:pref_notifier_impl.cc(27)] pref observer found at shutdown plugins.always_authorize
+[11057:1295:0624/154521:WARNING:pref_notifier_impl.cc(27)] pref observer found at shutdown plugins.allow_outdated
